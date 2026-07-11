@@ -1,0 +1,41 @@
+Student_ID,Name,Course,Attendance_Percentage,Mock_Test_Score
+101,Piyush,BCA,85.0,88
+102,Anjali,BCA,81.68,75
+103,Rohan,B.Tech,78.0,0
+104,Sneha,BCA,92.0,95
+105,Amit,B.Tech,65.0,60
+106,Pooja,BCA,81.68,82
+107,Rahul,B.Tech,80.0,70
+108,Kiran,BCA,88.0,85
+109,Sanjay,B.Tech,72.0,64
+110,Neha,B.Tech,95.0,90
+111,Vikram,MCA,89.0,84
+112,Deepak,MCA,74.0,72
+113,Jyoti,M.Tech,81.68,79
+114,Aman,MCA,91.0,91
+115,Preeti,M.Tech,68.0,63
+116,Nitin,BSc (CS),83.0,87
+117,Alok,BSc (CS),81.68,0
+118,Divya,MCA,79.0,76
+119,Rajesh,BSc (CS),86.0,81
+120,Kavita,BSc (CS),94.0,93
+121,Manoj,BCA,82.0,85
+122,Swati,MCA,77.0,70
+123,Harish,B.Tech,81.0,78
+124,Ritu,M.Tech,90.0,89
+125,Gaurav,BSc (CS),69.0,65
+126,Megha,BCA,81.68,80
+127,Abhishek,B.Tech,75.0,74
+128,Shalini,MCA,87.0,86
+129,Pankaj,M.Tech,73.0,71
+130,Komal,BSc (CS),93.0,92
+131,Suresh,BCA,80.0,83
+132,Nisha,BCA,84.0,77
+133,Vijay,B.Tech,76.0,75
+134,Aarti,BCA,89.0,88
+135,Sunil,B.Tech,67.0,62
+136,Sapna,MCA,85.0,84
+137,Varun,MCA,71.0,69
+138,Monika,M.Tech,81.68,78
+139,Arjun,MCA,88.0,85
+140,Riya,M.Tech,91.0,89
